@@ -7,7 +7,7 @@ This repository includes:
 " Questions Analysis " file, which contains all the questions about the data.  
 
 Data:  
-This dataset is taken from " Kaggle " , Link : [https://mavenanalytics.io/data-playground?page=4&pageSize=5 for practicing analysis](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams).  
+This dataset is taken from " Kaggle " , Link : https://www.kaggle.com/datasets/spscientist/students-performance-in-exams.  
 Dashboard:  
 This file contains the final product I analysed, all the important tabs are hidden in this file that you can unhide and view for yourself, only the Dashboard tab is visible normally. To move around objects you need to " Unprotect" the file using the password " 12345 ".  
 Final Dashboard Preview:  
